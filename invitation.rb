@@ -12,7 +12,7 @@ puts "What's your guest's name?"
  puts "what is your name?"
 host_name=gets.chomp.capitalize
 
-def invitation
+
 puts "Dear #{guest_name},
   You are cordially invited to the #{party_name} on #{date} at #{time}. Please RSVP by #{rsvp}
     Sincerly,
