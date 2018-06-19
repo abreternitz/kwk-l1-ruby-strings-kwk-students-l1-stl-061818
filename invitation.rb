@@ -2,15 +2,15 @@
 #puts "What's your guest's name?"
 # guest_name=gets.chomp.capitalize
 # puts "What's the name of your party?"
-# party_name=gets.chomp.capitalize
+party_name=gets.chomp.capitalize
 # puts "When's your party?"
-# date=gets.chomp.capitalize
+date=gets.chomp.capitalize
 # puts "What time is your party?"
-# time=gets.chomp.capitalize
+time=gets.chomp.capitalize
 # puts "When should your guests RSVP?"
-# rsvp=gets
+rsvp=gets
 # puts "what is your name?"
-# host_name=gets.chomp.capitalize
+host_name=gets.chomp.capitalize
 
 puts "Hey, You've been invited to a party! What's your name?"
 guest_name=gets.chomp.capitalize
